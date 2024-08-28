@@ -1,0 +1,187 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Building a Scalable Web Application",
+        "body": "Learn how to build a scalable web application using modern technologies. We'll cover best practices, architecture, and tools needed for high-performance apps."
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Understanding RESTful APIs",
+        "body": "RESTful APIs are the backbone of modern web services. This article explains how to design, build, and secure REST APIs effectively."
+    },
+    {
+        "userId": 1,
+        "id": 3,
+        "title": "Introduction to Microservices",
+        "body": "Microservices architecture is a powerful way to build flexible, scalable applications. Discover how to break down monolithic applications into manageable services."
+    },
+    {
+        "userId": 1,
+        "id": 4,
+        "title": "Getting Started with Docker",
+        "body": "Docker simplifies application deployment by using containers. This guide walks you through the basics of Docker, from installation to running your first container."
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Securing Web Applications",
+        "body": "Security is critical in web development. This article covers common vulnerabilities and how to protect your web applications from attacks."
+    },
+    {
+        "userId": 1,
+        "id": 6,
+        "title": "Version Control with Git",
+        "body": "Git is an essential tool for developers. Learn how to manage your codebase, collaborate with others, and maintain a clean project history."
+    },
+    {
+        "userId": 1,
+        "id": 7,
+        "title": "Responsive Design Best Practices",
+        "body": "Responsive design ensures your website looks great on all devices. Explore techniques and tools to create flexible layouts that adapt to any screen size."
+    },
+    {
+        "userId": 1,
+        "id": 8,
+        "title": "Introduction to Cloud Computing",
+        "body": "Cloud computing has revolutionized how we deploy and scale applications. Learn the basics of cloud services and how to leverage them for your projects."
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Optimizing Web Performance",
+        "body": "Slow websites drive users away. This guide offers strategies to optimize your website's performance, from frontend to backend improvements."
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "Working with JavaScript Frameworks",
+        "body": "JavaScript frameworks like React and Angular streamline web development. This article introduces you to these frameworks and how to choose the right one for your project."
+    },
+    {
+        "userId": 2,
+        "id": 11,
+        "title": "Data Structures and Algorithms",
+        "body": "Mastering data structures and algorithms is key to becoming a better programmer. Explore common structures and algorithms used in real-world applications."
+    },
+    {
+        "userId": 2,
+        "id": 12,
+        "title": "Building a REST API with Node.js",
+        "body": "Node.js is a popular choice for building REST APIs. This tutorial shows you how to create a RESTful API using Node.js and Express."
+    },
+    {
+        "userId": 2,
+        "id": 13,
+        "title": "Introduction to Frontend Development",
+        "body": "Frontend development is all about creating user interfaces. Learn the basics of HTML, CSS, and JavaScript to start building your first web pages."
+    },
+    {
+        "userId": 2,
+        "id": 14,
+        "title": "Database Design Principles",
+        "body": "A well-designed database is crucial for efficient data management. This article covers the principles of database design, including normalization and indexing."
+    },
+    {
+        "userId": 2,
+        "id": 15,
+        "title": "Getting Started with Python",
+        "body": "Python is a versatile programming language that's easy to learn. This guide introduces you to Python basics and its wide range of applications."
+    },
+    {
+        "userId": 2,
+        "id": 16,
+        "title": "Understanding Asynchronous JavaScript",
+        "body": "Asynchronous JavaScript can be tricky to grasp. This article explains how to handle async operations with callbacks, promises, and async/await."
+    },
+    {
+        "userId": 2,
+        "id": 17,
+        "title": "DevOps Essentials",
+        "body": "DevOps bridges the gap between development and operations. Learn the essentials of DevOps practices, including CI/CD pipelines, automation, and monitoring."
+    },
+    {
+        "userId": 2,
+        "id": 18,
+        "title": "Mastering CSS Grid Layout",
+        "body": "CSS Grid Layout is a powerful tool for creating complex web layouts. This guide covers the basics and advanced techniques for using CSS Grid effectively."
+    },
+    {
+        "userId": 2,
+        "id": 19,
+        "title": "Introduction to Web Accessibility",
+        "body": "Web accessibility ensures that everyone, including people with disabilities, can use your website. Learn how to make your site more accessible."
+    },
+    {
+        "userId": 2,
+        "id": 20,
+        "title": "Understanding Serverless Architecture",
+        "body": "Serverless architecture allows you to build and run applications without managing servers. Discover how serverless computing works and when to use it."
+    },
+    {
+        "userId": 3,
+        "id": 21,
+        "title": "Building a Progressive Web App (PWA)",
+        "body": "Progressive Web Apps combine the best of web and mobile apps. This tutorial shows you how to create a PWA that works offline and provides a native-like experience."
+    },
+    {
+        "userId": 3,
+        "id": 22,
+        "title": "Understanding HTTP/2 and Its Benefits",
+        "body": "HTTP/2 is a major upgrade to the HTTP protocol. Learn about its features, how it improves web performance, and how to implement it on your server."
+    },
+    {
+        "userId": 3,
+        "id": 23,
+        "title": "Introduction to Machine Learning",
+        "body": "Machine learning is transforming industries. This article introduces the basics of machine learning, common algorithms, and how to get started with Python libraries."
+    },
+    {
+        "userId": 3,
+        "id": 24,
+        "title": "Using WebSockets for Real-Time Communication",
+        "body": "WebSockets enable real-time communication between the client and server. Learn how to implement WebSockets in your web applications for instant updates."
+    },
+    {
+        "userId": 3,
+        "id": 25,
+        "title": "Introduction to TypeScript",
+        "body": "TypeScript adds static typing to JavaScript, helping you catch errors early. This guide introduces you to TypeScript and how to integrate it into your projects."
+    },
+    {
+        "userId": 3,
+        "id": 26,
+        "title": "Building a RESTful API with Django",
+        "body": "Django is a powerful Python web framework. Learn how to build a RESTful API with Django, covering routing, serialization, and authentication."
+    },
+    {
+        "userId": 3,
+        "id": 27,
+        "title": "Improving Web App Security with OAuth",
+        "body": "OAuth is a standard protocol for secure authorization. This article explains how to implement OAuth in your web applications to protect user data."
+    },
+    {
+        "userId": 3,
+        "id": 28,
+        "title": "Creating Custom Hooks in React",
+        "body": "Custom hooks in React allow you to reuse logic across components. Learn how to create and use custom hooks to simplify your React code."
+    },
+    {
+        "userId": 3,
+        "id": 29,
+        "title": "Automating Tasks with Gulp",
+        "body": "Gulp is a task runner that automates repetitive tasks in your development workflow. This tutorial shows you how to set up Gulp and create custom tasks."
+    },
+    {
+        "userId": 3,
+        "id": 30,
+        "title": "Understanding GraphQL",
+        "body": "GraphQL is a query language for APIs that provides flexibility in data fetching. Learn the basics of GraphQL and how to integrate it into your backend."
+    },
+    {
+        "userId": 4,
+        "id": 31,
+        "title": "Introduction to WebAssembly",
+        "body": "WebAssembly is a low-level language that runs in the browser alongside JavaScript."
+    }]
